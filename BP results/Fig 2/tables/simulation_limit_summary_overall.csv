@@ -1,0 +1,3 @@
+analysis_set,n_runs,n_reached_case_limit,proportion_reached_case_limit,n_reached_time_limit,proportion_reached_time_limit,n_reached_either_limit,proportion_reached_either_limit,total_proposed_infections_after_time_limit
+all_generated_runs,200000,112,5.6e-4,227,0.001135,339,0.001695,227
+generation_conditioned_runs,37685,0,0,227,0.006023616823669895,227,0.006023616823669895,227

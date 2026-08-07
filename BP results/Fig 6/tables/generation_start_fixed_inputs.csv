@@ -1,0 +1,25 @@
+parameter,value
+input,~/Hantavirus_quarantine/TD results
+delay_file_used,C:/Users/nj7786/Documents/Hantavirus_quarantine/TD results/posterior_pair_level_draws.csv
+out,~/Hantavirus_quarantine/BP results/Fig 6
+n_runs,10000
+q_values,"1,0.95,0.9,0.75,0.5"
+start_generations,"0,1,2,3,4"
+seed,20260528
+current_generation,2
+max_days,260
+max_cases,5000
+initial_infected,1
+R0,2.12
+k,0.1982053
+p_detect,0.95
+detection_delay_mean,2
+detection_delay_sd,1
+isolation_delay_mean,0.5
+isolation_delay_sd,0.5
+isolation_effectiveness,0.95
+quarantine_duration,42
+quarantine_effectiveness,1
+quarantine_adherence,1
+mean_uninfected_contacts_per_detected_case,13.5
+uninfected_contact_dispersion,2.11

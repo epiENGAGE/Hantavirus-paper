@@ -1,0 +1,10 @@
+RESULTS-SECTION QUANTITIES
+All outcome summaries below condition on the requested reported-case trigger being reached.
+
+High transmission:
+  Trigger 1: median infections 1 (IQR 1--4); median quarantined 2 (IQR 1--5).
+  Trigger 20: median infections 72 (IQR 48--229); median quarantined 508 (IQR 214--2,128).
+  Probability of at least 100 infections: 2.6% at trigger 1 versus 37.6% at trigger 20.
+  Probability of at least 500 infections: 1.9% at trigger 1 versus 12.5% at trigger 20.
+  Probability of quarantining at least 1,000 people: 2.6% at trigger 1 versus 35.1% at trigger 20.
+

@@ -1,0 +1,29 @@
+parameter,value
+input,C:/Users/nj7786/Documents/Hantavirus_quarantine/TD results
+delay_file_used,C:/Users/nj7786/Documents/Hantavirus_quarantine/TD results/posterior_pair_level_draws.csv
+out,~/Hantavirus_quarantine/BP results/Fig 3
+n_runs_per_regime_trigger,10000
+reported_case_triggers,"1,2,3,5,10,15,20"
+q_values,0.95
+seed,20260529
+max_days,260
+max_cases,5000
+initial_infected,1
+timing_sampling,joint_delta_conditioned_on_source_incubation
+detection_delay_distribution,gamma_mean_sd
+isolation_delay_distribution,gamma_mean_sd
+p_detect,0.95
+detection_delay_mean,2
+detection_delay_sd,1
+isolation_delay_mean,0.5
+isolation_delay_sd,0.5
+isolation_effectiveness,0.99
+quarantine_duration,42
+quarantine_effectiveness,1
+quarantine_adherence,1
+backward_tracing_window,14
+daily_contact_rate,13.5
+contact_count_dispersion,2.11
+contact_multiplier,1
+supercritical_R0_k,R0=2.12; k=0.3157164
+subcritical_R0_k,R0=0.2416027; k=0.3998142

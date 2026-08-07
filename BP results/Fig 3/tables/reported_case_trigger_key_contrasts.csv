@@ -1,0 +1,4 @@
+transmission_regime,transmission_label,reported_case_trigger,n_runs,median_total_infections,q25_total_infections,q75_total_infections,q95_total_infections,median_total_quarantined,q25_total_quarantined,q75_total_quarantined,q95_total_quarantined,p_infections_ge_100,p_infections_ge_500,p_quarantine_ge_1000
+subcritical,Low transmission,1,9568,1,1,1,2,1,1,1,168.64999999999964,0,0,0
+supercritical,High transmission,1,9774,1,1,4,15,2,1,5,266.35000000000036,0.02608962553713935,0.019439328831594025,0.026396562308164517
+supercritical,High transmission,20,2999,72,48,229,893,508,214,2128.5,9103.399999999994,0.3761253751250417,0.1247082360786929,0.35111703901300434

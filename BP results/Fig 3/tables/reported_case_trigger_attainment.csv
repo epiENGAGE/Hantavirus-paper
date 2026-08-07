@@ -1,0 +1,15 @@
+transmission_regime,transmission_label,R0_regime,k_regime,reported_case_trigger,q_system,q_label,n_generated,n_reached_trigger,probability_reached_trigger
+subcritical,Low transmission,0.2416027,0.3998142,1,0.95,95%,10000,9568,0.9568
+subcritical,Low transmission,0.2416027,0.3998142,2,0.95,95%,10000,1641,0.1641
+subcritical,Low transmission,0.2416027,0.3998142,3,0.95,95%,10000,632,0.0632
+subcritical,Low transmission,0.2416027,0.3998142,5,0.95,95%,10000,176,0.0176
+subcritical,Low transmission,0.2416027,0.3998142,10,0.95,95%,10000,13,0.0013
+subcritical,Low transmission,0.2416027,0.3998142,15,0.95,95%,10000,3,3e-4
+subcritical,Low transmission,0.2416027,0.3998142,20,0.95,95%,10000,0,0
+supercritical,High transmission,2.12,0.3157164,1,0.95,95%,10000,9774,0.9774
+supercritical,High transmission,2.12,0.3157164,2,0.95,95%,10000,4669,0.4669
+supercritical,High transmission,2.12,0.3157164,3,0.95,95%,10000,3852,0.3852
+supercritical,High transmission,2.12,0.3157164,5,0.95,95%,10000,3426,0.3426
+supercritical,High transmission,2.12,0.3157164,10,0.95,95%,10000,3075,0.3075
+supercritical,High transmission,2.12,0.3157164,15,0.95,95%,10000,2985,0.2985
+supercritical,High transmission,2.12,0.3157164,20,0.95,95%,10000,2999,0.2999

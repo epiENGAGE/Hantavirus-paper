@@ -1,0 +1,38 @@
+DYNAMIC DOWNSTREAM TRACING ANALYSIS
+===================================
+Conditioned on the uncontrolled potential tree reaching generation 2 by response day 35.
+The response day was aligned to occur 26 days after symptom onset of the first detected case: TRUE.
+Tracing completeness q was applied to the initial known exposed infected cohort and to downstream infected and uninfected contacts.
+
+Supercritical — Perfect intervention
+------------------------------------
+0% missed: P(leakage)=0.000 (95% CI 0.000–0.001); median additional infections=0; median downstream uninfected contacts quarantined=1533 (IQR 649–3331); median additional response duration=0 months.
+5% missed: P(leakage)=0.162 (95% CI 0.150–0.175); median additional infections=0; median downstream uninfected contacts quarantined=1491 (IQR 628–3432); median additional response duration=0 months.
+10% missed: P(leakage)=0.272 (95% CI 0.258–0.287); median additional infections=0; median downstream uninfected contacts quarantined=1448 (IQR 601–3401); median additional response duration=0 months.
+25% missed: P(leakage)=0.479 (95% CI 0.462–0.496); median additional infections=0; median downstream uninfected contacts quarantined=1424 (IQR 545–3594); median additional response duration=0.1 months.
+50% missed: P(leakage)=0.664 (95% CI 0.648–0.679); median additional infections=4; median downstream uninfected contacts quarantined=1422 (IQR 413–4554); median additional response duration=0.7 months.
+
+Supercritical — Imperfect intervention
+--------------------------------------
+0% missed: P(leakage)=0.000 (95% CI 0.000–0.001); median additional infections=0; median downstream uninfected contacts quarantined=1747 (IQR 792–3819); median additional response duration=0 months.
+5% missed: P(leakage)=0.181 (95% CI 0.169–0.194); median additional infections=0; median downstream uninfected contacts quarantined=1870 (IQR 744–4251); median additional response duration=0 months.
+10% missed: P(leakage)=0.293 (95% CI 0.278–0.309); median additional infections=0; median downstream uninfected contacts quarantined=1793 (IQR 718–3961); median additional response duration=0 months.
+25% missed: P(leakage)=0.520 (95% CI 0.503–0.536); median additional infections=1; median downstream uninfected contacts quarantined=1845 (IQR 654–4962); median additional response duration=0.2 months.
+50% missed: P(leakage)=0.701 (95% CI 0.685–0.716); median additional infections=7; median downstream uninfected contacts quarantined=2017 (IQR 528–11178); median additional response duration=1.1 months.
+
+Subcritical — Perfect intervention
+----------------------------------
+0% missed: P(leakage)=0.000 (95% CI 0.000–0.011); median additional infections=0; median downstream uninfected contacts quarantined=270 (IQR 181–417); median additional response duration=0 months.
+5% missed: P(leakage)=0.006 (95% CI 0.001–0.022); median additional infections=0; median downstream uninfected contacts quarantined=231 (IQR 170–384); median additional response duration=0 months.
+10% missed: P(leakage)=0.021 (95% CI 0.009–0.043); median additional infections=0; median downstream uninfected contacts quarantined=224 (IQR 159–373); median additional response duration=0 months.
+25% missed: P(leakage)=0.041 (95% CI 0.022–0.069); median additional infections=0; median downstream uninfected contacts quarantined=232 (IQR 140–327); median additional response duration=0 months.
+50% missed: P(leakage)=0.071 (95% CI 0.045–0.105); median additional infections=0; median downstream uninfected contacts quarantined=134 (IQR 88–220); median additional response duration=0 months.
+
+Subcritical — Imperfect intervention
+------------------------------------
+0% missed: P(leakage)=0.000 (95% CI 0.000–0.011); median additional infections=0; median downstream uninfected contacts quarantined=325 (IQR 201–469); median additional response duration=0 months.
+5% missed: P(leakage)=0.031 (95% CI 0.016–0.055); median additional infections=0; median downstream uninfected contacts quarantined=359 (IQR 196–487); median additional response duration=0 months.
+10% missed: P(leakage)=0.016 (95% CI 0.006–0.035); median additional infections=0; median downstream uninfected contacts quarantined=280 (IQR 184–456); median additional response duration=0 months.
+25% missed: P(leakage)=0.039 (95% CI 0.020–0.068); median additional infections=0; median downstream uninfected contacts quarantined=211 (IQR 154–364); median additional response duration=0 months.
+50% missed: P(leakage)=0.051 (95% CI 0.031–0.080); median additional infections=0; median downstream uninfected contacts quarantined=163 (IQR 103–262); median additional response duration=0 months.
+
