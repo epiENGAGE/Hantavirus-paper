@@ -1,0 +1,33 @@
+parameter,value
+input,C:/Users/nj7786/Documents/Hantavirus_quarantine/TD results
+delay_file_used,C:/Users/nj7786/Documents/Hantavirus_quarantine/TD results/posterior_pair_level_draws.csv
+out,C:/Users/nj7786/Documents/Hantavirus_quarantine/TD results/andes_cruise_dynamic_tracing_outputs
+n_runs_per_regime,10000
+chunk_size,1000
+q_values,"1,0.95,0.9,0.75,0.5"
+seed,20260519
+current_generation,2
+response_day,35
+response_lag_from_first_reported_onset,26
+align_response_to_first_reported_onset,TRUE
+exposed_cohort_size,100
+backward_tracing_window,14
+daily_contact_rate,13.5
+contact_count_dispersion,2.11
+contact_multiplier,1
+notification_delay_mean,1
+notification_delay_sd,0.5
+max_days,1000
+max_cases,100000
+initial_infected,1
+p_detect,0.95
+detection_delay_mean,2
+detection_delay_sd,1
+isolation_delay_mean,0.5
+isolation_delay_sd,0.5
+isolation_effectiveness,0.99
+quarantine_duration,42
+quarantine_effectiveness,1
+quarantine_adherence,1
+supercritical_R0_k,R0=2.12; k=0.3157164
+subcritical_R0_k,R0=0.2416027; k=0.3998142

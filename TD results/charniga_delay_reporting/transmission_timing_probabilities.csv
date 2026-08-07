@@ -1,0 +1,4 @@
+quantity,estimate,l95,u95,estimate_report
+Pr(delta < 0): transmission before source symptom onset,0.42424242424242425,0.18181818181818182,0.696969696969697,42.4% (95% CrI: 18.2--69.7%)
+Pr(delta <= 1): transmission by 1 day after source symptom onset,0.9393939393939394,0.9090909090909091,0.9393939393939394,93.9% (95% CrI: 90.9--93.9%)
+Pr(delta <= 2): transmission by 2 days after source symptom onset,0.9696969696969697,0.9393939393939394,0.9696969696969697,97.0% (95% CrI: 93.9--97.0%)

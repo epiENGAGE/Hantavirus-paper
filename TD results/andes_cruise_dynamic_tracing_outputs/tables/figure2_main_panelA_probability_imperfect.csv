@@ -1,0 +1,11 @@
+transmission_regime,transmission_label,R0_regime,k_regime,scenario,intervention_label,comparison_group,q_system,contacts_missed,q_label,missed_label,n_runs,continued_transmission_events,leakage_prob,leakage_lower,leakage_upper
+subcritical,Subcritical,0.2416027,0.3998142,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,0.5,0.5,50%,50%,350,18,0.05142857142857143,0.030761057264109912,0.0800634690196258
+subcritical,Subcritical,0.2416027,0.3998142,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,0.75,0.25,75%,25%,305,12,0.03934426229508197,0.020492241113679553,0.06771745276167884
+subcritical,Subcritical,0.2416027,0.3998142,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,0.9,0.09999999999999998,90%,10%,365,6,0.01643835616438356,0.00605586852219296,0.03543431332841507
+subcritical,Subcritical,0.2416027,0.3998142,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,0.95,0.050000000000000044,95%,5%,351,11,0.03133903133903134,0.015746085421686505,0.05538134855519572
+subcritical,Subcritical,0.2416027,0.3998142,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,1,0,100%,0%,333,0,0,0,0.01101658412403872
+supercritical,Supercritical,2.12,0.3157164,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,0.5,0.5,50%,50%,3477,2437,0.7008915731952833,0.685364421629547,0.7160802422949297
+supercritical,Supercritical,2.12,0.3157164,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,0.75,0.25,75%,25%,3499,1818,0.5195770220062875,0.5028692089568191,0.5362520917442113
+supercritical,Supercritical,2.12,0.3157164,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,0.9,0.09999999999999998,90%,10%,3373,988,0.2929143195967981,0.27759258331423214,0.30859582307978084
+supercritical,Supercritical,2.12,0.3157164,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,0.95,0.050000000000000044,95%,5%,3470,629,0.1812680115273775,0.16857871240139044,0.19449667463517983
+supercritical,Supercritical,2.12,0.3157164,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,1,0,100%,0%,3432,0,0,0,0.001074270883235296

@@ -1,0 +1,21 @@
+transmission_regime,transmission_label,scenario,intervention_label,comparison_group,q_system,contacts_missed,missed_label,n_runs,probability_continued_transmission,mean_additional_infections,median_additional_infections,q75_additional_infections,q90_additional_infections,q95_additional_infections,q99_additional_infections,median_uninfected_quarantined,median_additional_response_months
+subcritical,Subcritical,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,1,0,0%,333,0,0,0,0,0,0,0,325,0
+subcritical,Subcritical,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,0.95,0.050000000000000044,5%,351,0.03133903133903134,0.039886039886039885,0,0,0,0,1,359,0
+subcritical,Subcritical,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,0.9,0.09999999999999998,10%,365,0.01643835616438356,0.024657534246575342,0,0,0,0,1,280,0
+subcritical,Subcritical,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,0.75,0.25,25%,305,0.03934426229508197,0.06885245901639345,0,0,0,0,2,211,0
+subcritical,Subcritical,imperfect_intervention,Imperfect intervention,Subcritical — Imperfect intervention,0.5,0.5,50%,350,0.05142857142857143,0.08571428571428572,0,0,0,0.5500000000000114,2,163,0
+subcritical,Subcritical,perfect_intervention,Perfect intervention,Subcritical — Perfect intervention,1,0,0%,346,0,0,0,0,0,0,0,269.5,0
+subcritical,Subcritical,perfect_intervention,Perfect intervention,Subcritical — Perfect intervention,0.95,0.050000000000000044,5%,319,0.006269592476489028,0.006269592476489028,0,0,0,0,0,231,0
+subcritical,Subcritical,perfect_intervention,Perfect intervention,Subcritical — Perfect intervention,0.9,0.09999999999999998,10%,328,0.021341463414634148,0.042682926829268296,0,0,0,0,1,223.5,0
+subcritical,Subcritical,perfect_intervention,Perfect intervention,Subcritical — Perfect intervention,0.75,0.25,25%,319,0.04075235109717868,0.08150470219435736,0,0,0,0,2.819999999999993,232,0
+subcritical,Subcritical,perfect_intervention,Perfect intervention,Subcritical — Perfect intervention,0.5,0.5,50%,310,0.07096774193548387,0.08387096774193549,0,0,0,1,1.910000000000025,133.5,0
+supercritical,Supercritical,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,1,0,0%,3432,0,0,0,0,0,0,0,1747,0
+supercritical,Supercritical,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,0.95,0.050000000000000044,5%,3470,0.1812680115273775,1.5544668587896253,0,0,3,8,27.309999999999945,1870.5,0
+supercritical,Supercritical,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,0.9,0.09999999999999998,10%,3373,0.2929143195967981,3.2774977764601245,0,1,7,15,59,1793,0
+supercritical,Supercritical,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,0.75,0.25,25%,3499,0.5195770220062875,15.975707344955701,1,10,43,82,215.01999999999998,1845,0.21654564163279758
+supercritical,Supercritical,imperfect_intervention,Imperfect intervention,Supercritical — Imperfect intervention,0.5,0.5,50%,3477,0.7008915731952833,772.4164509634743,7,85,856.6000000000013,4218.399999999993,17310.039999999855,2017,1.0691975074619946
+supercritical,Supercritical,perfect_intervention,Perfect intervention,Supercritical — Perfect intervention,1,0,0%,3437,0,0,0,0,0,0,0,1533,0
+supercritical,Supercritical,perfect_intervention,Perfect intervention,Supercritical — Perfect intervention,0.95,0.050000000000000044,5%,3354,0.16249254621347645,1.0700655933214074,0,0,2,6,19.4699999999998,1491,0
+supercritical,Supercritical,perfect_intervention,Perfect intervention,Supercritical — Perfect intervention,0.9,0.09999999999999998,10%,3515,0.27226173541963017,2.165860597439545,0,1,5,12,33,1448,0
+supercritical,Supercritical,perfect_intervention,Perfect intervention,Supercritical — Perfect intervention,0.75,0.25,25%,3368,0.47921615201900236,7.820665083135392,0,6,22,37,93,1424,0.0895995026078488
+supercritical,Supercritical,perfect_intervention,Perfect intervention,Supercritical — Perfect intervention,0.5,0.5,50%,3434,0.6636575422248108,34.82032615026208,4,28,96.70000000000027,176,430.6900000000005,1421.5,0.65086221343688

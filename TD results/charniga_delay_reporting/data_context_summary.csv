@@ -1,0 +1,7 @@
+item,value
+Outbreak,2018--2019 Epuyen Andes virus outbreak
+Cases included,34
+Linked transmission pairs,33
+Interval censoring,Latent infection and onset times estimated within exposure/onset windows
+Model type,Within-host-informed event-time model
+Delay quantities reported,Incubation period; latent period; generation interval; serial interval; transmission timing relative to source symptom onset
